@@ -1,0 +1,9 @@
+hero         asli  575676 B -> webp360   6632, webp480   9504, webp800  17746 | avif360   5182, avif480   7103, avif800  12356 B
+kayu-kaso-1  asli  605878 B -> webp360   6890, webp480   9796, webp800  18278 | avif360   5568, avif480   7468, avif800  12597 B
+kayu-kaso-2  asli   27055 B -> webp360  10206, webp480  13016, webp800  13016 | avif360   8648, avif480   9958, avif800   9958 B
+kayu-balok-1 asli  148754 B -> webp360  10784, webp480  18142, webp800  44982 | avif360   8074, avif480  13326, avif800  34027 B
+kayu-balok-2 asli  380941 B -> webp360  16348, webp480  28402, webp800  48768 | avif360  13539, avif480  23229, avif800  31054 B
+papan-kayu-1 asli  127385 B -> webp360  14260, webp480  21082, webp800  39474 | avif360  11716, avif480  16521, avif800  30605 B
+papan-kayu-2 asli  160266 B -> webp360  14068, webp480  23552, webp800  49874 | avif360  11373, avif480  18503, avif800  31771 B
+kayu-dolken  asli  440764 B -> webp360  22756, webp480  37436, webp800  58632 | avif360  19887, avif480  32042, avif800  30881 B
+logo         asli  340473 B -> logo96 2628 B, logo192 6000 B, logo512 19036 B, favicon.ico 5430 B, apple-touch 8529 B, og-image.jpg 41395 B
