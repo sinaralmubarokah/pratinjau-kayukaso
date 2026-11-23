@@ -253,7 +253,7 @@ footer a{color:#fff}
    - Setiap klik WhatsApp -> dataLayer event "whatsapp_click" (berisi gclid & ref_code).
    - SHEETS_WEBHOOK (opsional): URL Web App Google Apps Script untuk mencatat ref+gclid ke Google Sheets. Kosong = nonaktif. */
 (function(){
- var WA='6285711111199', SHEETS_WEBHOOK='', DAYS=90, K='sam_click';
+ var WA='6285711111199', SHEETS_WEBHOOK='https://script.google.com/macros/s/AKfycby9u-pD-QEPtoQeSz7Lk3VqrvEOHu7O6Cr91JLVnDE8kjslqESVPAwZQcnSrkHfcz_dow/exec', DAYS=90, K='sam_click';
  var MSG='Halo PT Sinar Al Mubarokah, saya mau tanya harga & stok kayu kaso / kayu balok untuk proyek.';
  function getCookie(n){var m=document.cookie.match('(?:^|; )'+n+'=([^;]*)');return m?decodeURIComponent(m[1]):null}
  function setCookie(n,v){document.cookie=n+'='+encodeURIComponent(v)+';max-age='+(DAYS*864e2)+';path=/;SameSite=Lax'+(location.protocol=='https:'?';Secure':'')}
